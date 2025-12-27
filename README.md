@@ -1,5 +1,5 @@
 ## Project Overview
-This is a lightweight, responsive Counter Application built as part of the **Web Development Internship** assignment. The project focuses on core JavaScript fundamentals, including DOM manipulation and event-driven programming.
+This is a lightweight, responsive Counter Application built as part of the **Full Stack Web Development Internship** assignment. The project focuses on core JavaScript fundamentals, including DOM manipulation and event-driven programming.
 
 ## Tech Stack
 * **HTML5:** Structured the user interface.
